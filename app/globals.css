@@ -5,6 +5,7 @@ a { color: #0b5fff; }
 .nav-name { font-weight: bold; color: #222; text-decoration: none; }
 .nav-links a { margin-left: 16px; color: #333; text-decoration: none; }
 .hero { text-align: center; padding: 80px 24px 60px; }
+.hero-photo { width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 3px solid #eee; display: block; margin: 0 auto 16px; }
 .hero-kicker { font-size: 18px; color: #555; }
 .hero h1 { font-size: 44px; line-height: 1.2; max-width: 800px; margin: 8px auto; }
 .hero-sub { font-size: 19px; color: #444; max-width: 700px; margin: 16px auto; }

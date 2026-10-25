@@ -112,6 +112,7 @@ export default function Home() {
       </nav>
 
       <header id="top" className="hero">
+        <img src="/dave-headshot.png" alt="Dave Brian Quinzon" className="hero-photo" />
         <p className="hero-kicker">Hi, I am Dave Brian Quinzon</p>
         <h1>Real Estate and E-commerce Virtual Assistant</h1>
         <p className="hero-sub">
